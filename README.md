@@ -64,3 +64,37 @@ The game continues with night and day until all Mafia are out (good people win) 
 
 * Do not talk during the night.
 * Do not show your role to other players.
+
+# My text
+
+### Welcome
+
+ * "Welcome to the game of Mafia!"
+
+### Night
+
+* "The city is now asleep. Mafia, wake up and choose your victim."
+* "Mafia, have you made your choice? Go back to sleep."
+* "Doctor, wake up and choose who you want to heal."
+* "Doctor, have you made your choice? Go back to sleep."
+* "Commissioner, wake up and choose who you suspect is the Mafia."
+* "Commissioner, have you made your choice? Go back to sleep."
+
+### Morning
+
+* "The city is now awake"
+* "Im sorry, X has been killed..."
+* "doctor has been saved the victim"
+* "Time for discussion! Remember, you are only allowed to speak english"
+* "You have 3 minutes to discuss and vote on who you think is the Mafia."
+* "Time's up! It's time to vote. Who do you think is the Mafia? Raise your hands up if it is X"
+
+### Vote
+* "X, my apologiz, you were killed by the villagers
+* " X, show us your card! Who were you?"
+
+### The end
+
+* "The game is over. Thank you all for playing!"
+* "Would the Mafia like to reveal themselves?"
+* "The Mafia has been eliminated. The city wins!"
